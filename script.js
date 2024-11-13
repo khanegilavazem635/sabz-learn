@@ -9,3 +9,7 @@ function isLogin(user) {
         return false;
     };
 };
+
+function test() {
+    return true;
+};
