@@ -9,3 +9,5 @@ function isLogin(user) {
         return false;
     };
 };
+
+const test = () => false;
