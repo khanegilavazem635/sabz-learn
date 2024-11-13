@@ -10,6 +10,4 @@ function isLogin(user) {
     };
 };
 
-function test() {
-    return true;
-};
+const test = () => false;
