@@ -11,3 +11,7 @@ function isLogin(user) {
 };
 
 const test = () => false;
+
+const formHandler = (e) => {
+    e.preventDefault();
+};
